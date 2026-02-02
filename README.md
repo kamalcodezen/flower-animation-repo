@@ -1,3 +1,6 @@
+![Preview](preview.png)
+
+
 # 🌸 Valentine Flower Animation
 
 A **Reels-style smooth flower animation** built using **pure HTML & CSS**.  
