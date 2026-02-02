@@ -1,37 +1,48 @@
 ![Preview](preview.png)
 
-
 # 🌸 Valentine Flower Animation
 
-A **Reels-style smooth flower animation** built using **pure HTML & CSS**.  
-The flower grows gently from the bottom, blooms beautifully, and sways softly perfect for Valentine’s Day or aesthetic UI demos...
+A Reels-style smooth flower animation built using pure **HTML & CSS**.  
+The flower grows gently from the bottom, blooms beautifully, and sways softly — perfect for Valentine’s Day or aesthetic UI demos.
 
-----------------------------------------
+---
 
 ## ✨ Features
 
 -  Flower grows smoothly from the bottom  
--  Soft blooming petals animation  
+-  Blooming petals animation  
 -  Natural left-right sway motion  
--  Valentine greeting text with gradient shine  
+-  Gradient shine text  
 -  Name animation with glow & typewriter effect  
 -  Mobile-friendly & Reel screen-record ready  
--  No JavaScript used — only **HTML & CSS**
+-  No JavaScript — only HTML & CSS
 
-------------------------------
+---
 
 ##  Built With
 
-- **HTML5**
-- **CSS3**
-  - CSS Animations
-  - Gradients
-  - Keyframes
-  - Pseudo-elements
+- HTML5  
+- CSS3 (Animations, Keyframes, Gradients)
 
------------------------
+---
 
 ##  Live Demo
 
-👉 **[View Live Project:](https://kamalcodezen.github.io/flower-animation-repo/)**  
+👉 https://kamalcodezen.github.io/flower-animation-repo/
 
+---
+
+##  About
+
+Reels-style animated flower built with pure HTML & CSS.  
+Smooth grow, bloom, and sway animation — designed by **Sk Kamaluddin**.
+
+---
+
+## 🏷️ Topics
+
+html css animation flower reels ui
+
+---
+
+⭐ If you like this project, don’t forget to **star the repo**!
