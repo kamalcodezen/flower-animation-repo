@@ -16,3 +16,15 @@
     overflow: hidden;
     font-family: 'Poppins', sans-serif;
 }
+
+/* Text */
+.text {
+    position: absolute;
+    top: 60px;
+    width: 100%;
+    text-align: center;
+    color: #ffffff;
+    font-size: 28px;
+    letter-spacing: 1px;
+    animation: fadeIn 3s ease forwards;
+}
