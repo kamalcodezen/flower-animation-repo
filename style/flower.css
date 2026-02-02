@@ -25,12 +25,13 @@
     position: absolute;
     top: 60px;
     padding-inline: 1rem;
+    font-weight: 600;
     box-sizing: border-box;
     text-align: center;
     color: #ffffff;
     font-size: 29px;
     letter-spacing: 1px;
-    animation: fadeIn 3s ease forwards;
+    /* animation: fadeIn 3s ease forwards; */
     background: linear-gradient(45deg,
             white,
             rgb(6, 230, 6),
