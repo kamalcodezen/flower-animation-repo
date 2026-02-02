@@ -1,7 +1,7 @@
 # 🌸 Valentine Flower Animation
 
 A **Reels-style smooth flower animation** built using **pure HTML & CSS**.  
-The flower grows gently from the bottom, blooms beautifully, and sways softly—perfect for Valentine’s Day or aesthetic UI demos.
+The flower grows gently from the bottom, blooms beautifully, and sways softly perfect for Valentine’s Day or aesthetic UI demos...
 
 ----------------------------------------
 
