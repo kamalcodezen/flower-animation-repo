@@ -208,9 +208,9 @@
         0 0 6px rgba(180, 255, 255, 0.6),
         0 0 14px rgba(120, 255, 255, 0.4);
     animation:
-        typing 3s steps(18, end) forwards,
+        typing 10s steps(18, end) forwards,
         blink 0.8s step-end infinite;
-    animation-delay: 1.6s;
+    animation-delay: 1s;
 }
 
 /* icon before */
