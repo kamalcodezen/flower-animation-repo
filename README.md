@@ -30,5 +30,5 @@ The flower grows gently from the bottom, blooms beautifully, and sways softly pe
 
 ##  Live Demo
 
-👉 **View Live Project:**  
+👉 **[View Live Project:](https://kamalcodezen.github.io/flower-animation-repo/)**  
 
